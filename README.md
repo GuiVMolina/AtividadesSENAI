@@ -9,7 +9,7 @@ Foco em aplicações Desktop, arquitetura de software e lógica de negócios.
   *Sistema de gestão laboratorial.*
 - **[Projeto VHBurguer](https://github.com/GuiVMolina/VHBurguer)** (3º Semestre)  
   *Aplicação de gestão de pedidos para hamburgueria.*
-- **[Projeto RoyalGames](https://github.com/GuiVMolina/RoyalGames)** (3º Semestre)  
+- **[Projeto RoyalGames](https://github.com/rafahahon/RoyalGames)** (3º Semestre)  
   *Aplicação de gestão de pedidos para uma loja de games.*
 
 ## ⚡ C++ / IoT / Sistemas Embarcados
