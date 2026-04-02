@@ -13,6 +13,8 @@ Foco em aplicações Desktop, arquitetura de software e lógica de negócios.
   *Aplicação de gestão de pedidos para hamburgueria.*
 - **[Projeto RoyalGames](https://github.com/rafahahon/RoyalGames)** (3º Semestre)  
   *Aplicação de gestão de pedidos para uma loja de games.*
+- **[Projeto Gestão De Patrimônios](https://github.com/GuiVMolina/GestaoDePatrimonios)** (3º Semestre)  
+  *Aplicação de gestão de patrimônios para o SENAI.*
 
 ## ⚡ C++ / IoT / Sistemas Embarcados
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
