@@ -38,4 +38,4 @@ Interfaces e integrações web.
 - **[Curso JavaScript](https://github.com/GuiVMolina/CursoJavaScript)** (3º Semestre)
   *Exercícios e práticas com JS*
 - **[Jogo da Velha](https://github.com/GuiVMolina/JogoDaVelha)** (Pessoal)
-  *Desenvolvimento de lógico com JS*
+  *Desenvolvimento de lógica com JS*
