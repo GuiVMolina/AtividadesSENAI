@@ -33,9 +33,13 @@ Projetos de automação, interação com hardware e sensores (1º Semestre).
 
 Interfaces e integrações web.
 
-- **[Projeto GPT](https://github.com/GuiVMolina/ProjetoGPT)** (1º Semestre)
+- **[Projeto GPT](https://github.com/GuiVMolina/ProjetoGPT)** (AI900)
   *Integração e interface web para IA.*
-- **[Curso JavaScript](https://github.com/GuiVMolina/CursoJavaScript)** (3º Semestre)
+- **[Projeto GPT](https://github.com/GuiVMolina/ProjetoEntraID)** (SC900)
+  *Criação e validação do JWT.*
+- **[Curso JavaScript](https://github.com/GuiVMolina/CursoJavaScript)**
   *Exercícios e práticas com JS*
 - **[Jogo da Velha](https://github.com/GuiVMolina/JogoDaVelha)** (Pessoal)
   *Desenvolvimento de lógica com JS*
+  
+  
