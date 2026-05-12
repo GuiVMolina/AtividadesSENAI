@@ -35,7 +35,7 @@ Interfaces e integrações web.
 
 - **[Projeto GPT](https://github.com/GuiVMolina/ProjetoGPT)** (AI900)
   *Integração e interface web para IA.*
-- **[Projeto GPT](https://github.com/GuiVMolina/ProjetoEntraID)** (SC900)
+- **[Projeto EntraID](https://github.com/GuiVMolina/ProjetoEntraID)** (SC900)
   *Criação e validação do JWT.*
 - **[Curso JavaScript](https://github.com/GuiVMolina/CursoJavaScript)**
   *Exercícios e práticas com JS*
